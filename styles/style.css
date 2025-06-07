@@ -78,7 +78,7 @@ header {
   min-height: 757px;
   background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   margin-bottom: 181px;
 }
 
@@ -163,7 +163,6 @@ header {
 }
 
 .card-link {
-  display: block;
   position: relative;
   display: flex;
   flex-direction: column;
